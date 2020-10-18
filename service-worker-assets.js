@@ -701,7 +701,7 @@
       "url": "_framework\/DnetIndexedDB.dll"
     },
     {
-      "hash": "sha256-Af4H98969NjJZDZSnxXFthsbDgVd2IvypukW1toH7Mk=",
+      "hash": "sha256-OqP7\/txaXsoyDqlMmTgvPPR73p3s5zsNwSIlILzhyLQ=",
       "url": "_framework\/Survey.dll"
     },
     {
@@ -893,7 +893,7 @@
       "url": "_framework\/en-US\/Survey.resources.dll"
     },
     {
-      "hash": "sha256-OKx9p5UfKZLxlRs7Rrn6PQDreK9rHy8+Wrxpc17DBTU=",
+      "hash": "sha256-\/RnGYxAGXOXlJ77XzFofM4cpfesB24pj6HkWR97HiUI=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -901,5 +901,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "eToG3SS1"
+  "version": "67VCgYQ8"
 };
