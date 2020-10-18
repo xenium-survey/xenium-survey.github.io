@@ -5,7 +5,7 @@
       "url": ".nojekyll"
     },
     {
-      "hash": "sha256-SO\/fuIIWUxoIu1OABrOpK5n\/AvzxJcg+0H3PT1eutAE=",
+      "hash": "sha256-RbWyZWhHdTqaa1MhfrASaPOcoX\/QgXW12j7yO++9210=",
       "url": "css\/app.css"
     },
     {
@@ -57,11 +57,23 @@
       "url": "favicon.ico"
     },
     {
-      "hash": "sha256-IpHFcQvs03lh6W54zoeJRG1jW+VnGmwymzxLoXtKX7Y=",
+      "hash": "sha256-wFdcQ172lewW\/kC8bE4PaJPxyE2CTjiu+2q4MYaLPEc=",
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-8a\/zuNqD86ZwM+w22KsmqbfF1n3jn2EKpEa7DKOhKY0=",
+      "hash": "sha256-OJEtcdqwIJwA+HuKWy9rdBlMgFUJwJWPyvPUsqa3TRY=",
+      "url": "img\/xenium-logo-24.png"
+    },
+    {
+      "hash": "sha256-q3ggteT0ek\/eHFcV5kn+4NDIZ3LgLsdjM1s2GHm1fCw=",
+      "url": "img\/Xenium-Logo-lg.png"
+    },
+    {
+      "hash": "sha256-TitPA5LyhVV3UO5+GRG6ht4DZ2Bj5V82ycO4BYFspyE=",
+      "url": "img\/Xenium-Logo.png"
+    },
+    {
+      "hash": "sha256-2gPoUD5BlGM5zKiorPgghRNnhNjNMW\/V8yW9uIIRgJo=",
       "url": "index.html"
     },
     {
@@ -701,7 +713,7 @@
       "url": "_framework\/DnetIndexedDB.dll"
     },
     {
-      "hash": "sha256-OqP7\/txaXsoyDqlMmTgvPPR73p3s5zsNwSIlILzhyLQ=",
+      "hash": "sha256-0R\/TaWWyzpg6Cd7EbktS+6fv8HmsnY0P6CEqCEiPMt4=",
       "url": "_framework\/Survey.dll"
     },
     {
@@ -893,7 +905,7 @@
       "url": "_framework\/en-US\/Survey.resources.dll"
     },
     {
-      "hash": "sha256-\/RnGYxAGXOXlJ77XzFofM4cpfesB24pj6HkWR97HiUI=",
+      "hash": "sha256-ukV9OffYuaYvZVhqqc0XF+GXsZhNlbam0inJb1EaSPM=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -901,5 +913,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "67VCgYQ8"
+  "version": "yE\/lHuKd"
 };
