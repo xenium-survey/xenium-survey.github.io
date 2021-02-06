@@ -737,11 +737,11 @@
       "url": "_framework\/System.IO.Pipelines.dll"
     },
     {
-      "hash": "sha256-qbkPcX1WDfEAakmg+05bnz3zgukNg3ddvbcOyeXbGo0=",
+      "hash": "sha256-JJuyjstAeCjAXPtkVip3HWKeT0RjCQ1SbwzotLn6\/ws=",
       "url": "_framework\/DnetIndexedDB.dll"
     },
     {
-      "hash": "sha256-U\/jAtM1inEPIFwrvpTpXxYApDCll+MwkuDjsMLxOrgQ=",
+      "hash": "sha256-Dl0B0xRHwlrl4+tdpIC4O0+7E2BOfAn+z0pvEANYnYo=",
       "url": "_framework\/Survey.dll"
     },
     {
@@ -949,7 +949,7 @@
       "url": "_framework\/en-US\/Survey.resources.dll"
     },
     {
-      "hash": "sha256-gdXFO4E\/jLgFaDrOzWem7TDF1d\/AdlLx1+PJG\/RVlNI=",
+      "hash": "sha256-Cv4lMkMtFr3Kk6Odn5quK42254ZOvGydHmEojPHiOjg=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -957,5 +957,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "bXNVSI0v"
+  "version": "Excg54vV"
 };
