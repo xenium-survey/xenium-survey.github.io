@@ -793,7 +793,7 @@
       "url": "_framework\/Syncfusion.Blazor.dll"
     },
     {
-      "hash": "sha256-jzH5sHiGkatDYnz5cI2YQhHo7NTdnB8QpR0EPv3HZ\/k=",
+      "hash": "sha256-2HbmeZFOAO0M9ad3XiSdg3lRJVQwKlRDXzYYNRY6Nfs=",
       "url": "_framework\/Syncfusion.Compression.Portable.dll"
     },
     {
@@ -805,7 +805,7 @@
       "url": "_framework\/Syncfusion.Licensing.dll"
     },
     {
-      "hash": "sha256-9gdWK2yMNL754qHzUNlHCy\/XQeOEsgodie4eKdi\/Jqg=",
+      "hash": "sha256-xSrPJ9WMgRpvZ8xcMFhCZ\/W8WY3NmPwh594Ppljr1w8=",
       "url": "_framework\/Syncfusion.Pdf.Portable.dll"
     },
     {
@@ -821,7 +821,7 @@
       "url": "_framework\/DnetIndexedDB.dll"
     },
     {
-      "hash": "sha256-UhMLX+cbQHjo6UmlK83JFAXEOV3Ymk4TI3BYz4U61Tk=",
+      "hash": "sha256-f9PkraBmYmG5vRhicrdEY6U1eweXERxgqVXkalvLumQ=",
       "url": "_framework\/Survey.dll"
     },
     {
@@ -1025,7 +1025,7 @@
       "url": "_framework\/en-US\/Survey.resources.dll"
     },
     {
-      "hash": "sha256-wkkez+C7PDdUQVeaKeRrRxuDlPwADT04fwYGRgEnT8M=",
+      "hash": "sha256-GGSG6W6pNq7fttxw79V3iAhcgyQx+35CQUtaP2TJ9Hc=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -1033,5 +1033,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "EAgaq32A"
+  "version": "5oDI7+BI"
 };
