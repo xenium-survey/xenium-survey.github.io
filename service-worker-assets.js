@@ -725,11 +725,11 @@
       "url": "_framework\/Microsoft.AspNetCore.Components.dll"
     },
     {
-      "hash": "sha256-q1AEU6whIt5RUr2NDeg1hlVzeDV3skSLt5oVs+y6XNY=",
+      "hash": "sha256-SRtWQiQtV+0VUZ++NczHaZv27qogkFko5LNvHZoMWAc=",
       "url": "_framework\/Microsoft.AspNetCore.Components.Forms.dll"
     },
     {
-      "hash": "sha256-\/LmGqsesu8W+RVvk5lY7pJsDqI9Q40D\/nVVb\/YZAoG4=",
+      "hash": "sha256-0qVyzhpWQijbotb5BOm0oIyMJhIysatfQ0hz9VcanlA=",
       "url": "_framework\/Microsoft.AspNetCore.Components.Web.dll"
     },
     {
@@ -773,7 +773,7 @@
       "url": "_framework\/Microsoft.Extensions.Primitives.dll"
     },
     {
-      "hash": "sha256-x5KPI13GY8xiKfz4wpevRhady1lEkshdX5H2g+dmPZs=",
+      "hash": "sha256-YvSpmUqeTGS00CYjCOUDa5el1RlJ\/YUacWkqqzVsDLw=",
       "url": "_framework\/Microsoft.JSInterop.dll"
     },
     {
@@ -817,11 +817,11 @@
       "url": "_framework\/System.IO.Pipelines.dll"
     },
     {
-      "hash": "sha256-6gUjWSPXBggQgjCRh5TkBcy4wP+qNxBJPxWLe6aDtrA=",
+      "hash": "sha256-B4P0ytI3toYhFh1IpNtKEC9wjuviz4+TqwxQaz1H2y0=",
       "url": "_framework\/DnetIndexedDB.dll"
     },
     {
-      "hash": "sha256-A0nLN3Y7d9kxc\/Mor2waPwsnWUR1Bpcu2Ou3D\/OfFdk=",
+      "hash": "sha256-qIommdr9kIv\/PzL56gFbpoboLPGmH4n1iUeh52Y\/om4=",
       "url": "_framework\/Survey.dll"
     },
     {
@@ -1025,7 +1025,7 @@
       "url": "_framework\/en-US\/Survey.resources.dll"
     },
     {
-      "hash": "sha256-xwteFV3GIs\/peuBO69GS6mWP1Q\/bMBRIPcZcfOK973A=",
+      "hash": "sha256-n9e91+CAYo7Q4FILzd4d0W+LYV28KX42k00FKMWd+CE=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -1033,5 +1033,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "Ci9xBk10"
+  "version": "\/PCWBgLK"
 };
